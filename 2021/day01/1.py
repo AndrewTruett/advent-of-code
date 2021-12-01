@@ -11,7 +11,7 @@ sample = False
 
 filename = ""
 if sample:
-    filename = "sample_input.txt"
+    filename = "sample.txt"
 else:
     filename = "input.txt"
 
